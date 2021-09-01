@@ -11,7 +11,7 @@ def average_of_averages(l1, l2):
         sum2 += number
     avg2 = sum2 / len(l2)
 
-    return (avg1 + avg2) / 2
+    return (avg1 + avg2) / 2  # average the averages
 
 
 # BETTER
