@@ -13,7 +13,7 @@ def average_of_averages(l1, l2):
 
     return (avg1 + avg2) / 2
 
-
+#1
 # BETTER
 def average(l):
     return sum(l) / len(l)
